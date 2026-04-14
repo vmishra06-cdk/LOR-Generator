@@ -8,7 +8,7 @@ import os
 
 app = Flask(__name__)
 
-# --- Beautiful UI Template ---
+
 HTML = """
 <!DOCTYPE html>
 <html lang="en">
